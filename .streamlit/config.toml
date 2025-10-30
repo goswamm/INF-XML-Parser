@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 1024          # MB (adjust if your XMLs are huge)
+
+[browser]
+gatherUsageStats = false
